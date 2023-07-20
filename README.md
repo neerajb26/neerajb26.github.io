@@ -12,7 +12,7 @@
         <ul>
           <li>About me</li>
           <li>Education</li>
-          <li>Prohjects</li>
+          <li>Projects</li>
         </ul>
       </div>
     </div>
