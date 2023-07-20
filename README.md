@@ -36,7 +36,29 @@
           <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
           <p>Github</p>
           </div>
-   </div>     
-    
+     <h3 class="section-title">About Me</h3>
+     <div class="contents-item"> Hi, I am Neeraj Balachandar a sophomore at Indian Institute of Technology Hyderabad pursuing Mechanical and Aerospace 
+       engineering. I am enthusiastic about Mechatronics and eager to learn more tech related stuff. Moreover I am vehement about gas-guzzling automobiles 
+       and aerospace engines and aerodynamic structures. I am also passionate about developing machine learning models. In short, I am hard core lover of both
+       core mechanical as well as non core tech.
+     </div>
+     <h3 class="section-title">Education</h3>
+     <div class="contents-item">
+       <ul>
+         <li>Indian Institute of Technology Hyderabad</li>
+         <li>Kuriakose Elias English Medium School, Kottayam</li>
+         <li>Marian Seninor Secondary School, Kottayam</li>
+       </ul>
+     </div>
+     <h3 class="section-title">Projects</h3>
+     <div class="contents-item">
+       <ul>
+         <li></li>
+       </ul>
+     </div>
+   </div>  
+    <div class="footer">
+    <div class="footer-logo">Resume<a>""C:\Users\neera\Desktop\Resume.png""></a></div>
+    </div>
   </body>
 </html>
