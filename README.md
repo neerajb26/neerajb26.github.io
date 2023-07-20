@@ -25,16 +25,16 @@
    <div class="contents">
       <h3 class="section-title">Pages</h3>
         <div class="contents-item">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">
-          <p>LinkedIn</p>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" <a>https://www.linkedin.com/in/neeraj-balachandar-4a2777261</a>>
+          <p>LinkedIn<a>https://www.linkedin.com/in/neeraj-balachandar-4a2777261</a></p>
           </div>
           <div class="contents-item">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png">
-          <p>Instagram</p>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" <a>https://instagram.com/n_xx_rjb?igshid=MzNlNGNkZWQ4Mg==</a>>
+          <p>Instagram<a>https://instagram.com/n_xx_rjb?igshid=MzNlNGNkZWQ4Mg==</a></p>
           </div>
           <div class="contents-item">
-          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-          <p>Github</p>
+          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" <a>https://github.com/neerajb26</a>>
+          <p>Github<a>https://github.com/neerajb26</a></p>
           </div>
      <h3 class="section-title">About Me</h3>
      <div class="contents-item"> Hi, I am Neeraj Balachandar a sophomore at Indian Institute of Technology Hyderabad pursuing Mechanical and Aerospace 
